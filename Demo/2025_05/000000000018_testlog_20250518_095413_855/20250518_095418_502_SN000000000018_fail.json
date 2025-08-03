@@ -1,0 +1,29 @@
+{
+  "SN": "SN000000000018",
+  "start_time": "2025-05-18 09:54:13.855",
+  "tests": [
+    {
+      "timestamp": "2025-05-18 09:54:15.449",
+      "test_item": "5V电压测试",
+      "value": 4.921,
+      "status": "pass",
+      "duration_ms": 1594.2
+    },
+    {
+      "timestamp": "2025-05-18 09:54:16.645",
+      "test_item": "串口响应测试",
+      "value": "OK",
+      "status": "pass",
+      "duration_ms": 1195.9
+    },
+    {
+      "timestamp": "2025-05-18 09:54:18.502",
+      "test_item": "状态位检查",
+      "value": "pass",
+      "status": "fail",
+      "duration_ms": 1857.11
+    }
+  ],
+  "result": "fail",
+  "end_time": "2025-05-18 09:54:18.502"
+}

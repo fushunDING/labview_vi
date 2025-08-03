@@ -1,0 +1,260 @@
+[
+  {
+    "uid": "DUT_001",
+    "start_time": "2025-05-18 09:04:14",
+    "result": "PASS",
+    "items": [
+      {
+        "timestamp": "09:04:14.855",
+        "test_item": "Voltage Check",
+        "result": 3.262,
+        "attempt": 1,
+        "duration": 0.0
+      },
+      {
+        "timestamp": "09:04:14.855",
+        "test_item": "Communication",
+        "result": "OK",
+        "attempt": 1,
+        "duration": 0.0
+      },
+      {
+        "timestamp": "09:04:14.855",
+        "test_item": "Indicator Red",
+        "result": "PASS",
+        "attempt": 1,
+        "duration": 0.0
+      },
+      {
+        "timestamp": "09:04:14.855",
+        "test_item": "Indicator Green",
+        "result": "PASS",
+        "attempt": 1,
+        "duration": 0.0
+      },
+      {
+        "timestamp": "09:04:14.855",
+        "test_item": "Worklight Test",
+        "result": "PASS",
+        "attempt": 1,
+        "duration": 0.0
+      }
+    ],
+    "end_time": "2025-05-18 09:04:14"
+  },
+  {
+    "uid": "DUT_002",
+    "start_time": "2025-05-18 09:04:14",
+    "result": "PASS",
+    "items": [
+      {
+        "timestamp": "09:04:14.855",
+        "test_item": "Voltage Check",
+        "result": 3.002,
+        "attempt": 1,
+        "duration": 0.0
+      },
+      {
+        "timestamp": "09:04:14.855",
+        "test_item": "Communication",
+        "result": "OK",
+        "attempt": 1,
+        "duration": 0.0
+      },
+      {
+        "timestamp": "09:04:14.855",
+        "test_item": "Indicator Red",
+        "result": "PASS",
+        "attempt": 1,
+        "duration": 0.0
+      },
+      {
+        "timestamp": "09:04:14.855",
+        "test_item": "Indicator Green",
+        "result": "PASS",
+        "attempt": 1,
+        "duration": 0.0
+      },
+      {
+        "timestamp": "09:04:14.855",
+        "test_item": "Worklight Test",
+        "result": "PASS",
+        "attempt": 1,
+        "duration": 0.0
+      }
+    ],
+    "end_time": "2025-05-18 09:04:14"
+  },
+  {
+    "uid": "DUT_003",
+    "start_time": "2025-05-18 09:04:14",
+    "result": "PASS",
+    "items": [
+      {
+        "timestamp": "09:04:14.855",
+        "test_item": "Voltage Check",
+        "result": 3.231,
+        "attempt": 1,
+        "duration": 0.0
+      },
+      {
+        "timestamp": "09:04:14.855",
+        "test_item": "Communication",
+        "result": "OK",
+        "attempt": 1,
+        "duration": 0.0
+      },
+      {
+        "timestamp": "09:04:14.855",
+        "test_item": "Indicator Red",
+        "result": "PASS",
+        "attempt": 1,
+        "duration": 0.0
+      },
+      {
+        "timestamp": "09:04:14.855",
+        "test_item": "Indicator Green",
+        "result": "PASS",
+        "attempt": 1,
+        "duration": 0.0
+      },
+      {
+        "timestamp": "09:04:14.855",
+        "test_item": "Worklight Test",
+        "result": "PASS",
+        "attempt": 1,
+        "duration": 0.0
+      }
+    ],
+    "end_time": "2025-05-18 09:04:14"
+  },
+  {
+    "uid": "DUT_004",
+    "start_time": "2025-05-18 09:04:14",
+    "result": "PASS",
+    "items": [
+      {
+        "timestamp": "09:04:14.855",
+        "test_item": "Voltage Check",
+        "result": 3.199,
+        "attempt": 1,
+        "duration": 0.0
+      },
+      {
+        "timestamp": "09:04:14.855",
+        "test_item": "Communication",
+        "result": "OK",
+        "attempt": 1,
+        "duration": 0.0
+      },
+      {
+        "timestamp": "09:04:14.855",
+        "test_item": "Indicator Red",
+        "result": "PASS",
+        "attempt": 1,
+        "duration": 0.0
+      },
+      {
+        "timestamp": "09:04:14.855",
+        "test_item": "Indicator Green",
+        "result": "PASS",
+        "attempt": 1,
+        "duration": 0.0
+      },
+      {
+        "timestamp": "09:04:14.855",
+        "test_item": "Worklight Test",
+        "result": "PASS",
+        "attempt": 1,
+        "duration": 0.0
+      }
+    ],
+    "end_time": "2025-05-18 09:04:14"
+  },
+  {
+    "uid": "DUT_005",
+    "start_time": "2025-05-18 09:04:14",
+    "result": "PASS",
+    "items": [
+      {
+        "timestamp": "09:04:14.855",
+        "test_item": "Voltage Check",
+        "result": 3.417,
+        "attempt": 1,
+        "duration": 0.0
+      },
+      {
+        "timestamp": "09:04:14.855",
+        "test_item": "Communication",
+        "result": "OK",
+        "attempt": 1,
+        "duration": 0.0
+      },
+      {
+        "timestamp": "09:04:14.855",
+        "test_item": "Indicator Red",
+        "result": "PASS",
+        "attempt": 1,
+        "duration": 0.0
+      },
+      {
+        "timestamp": "09:04:14.855",
+        "test_item": "Indicator Green",
+        "result": "PASS",
+        "attempt": 1,
+        "duration": 0.0
+      },
+      {
+        "timestamp": "09:04:14.855",
+        "test_item": "Worklight Test",
+        "result": "PASS",
+        "attempt": 1,
+        "duration": 0.0
+      }
+    ],
+    "end_time": "2025-05-18 09:04:14"
+  },
+  {
+    "uid": "DUT_006",
+    "start_time": "2025-05-18 09:04:14",
+    "result": "PASS",
+    "items": [
+      {
+        "timestamp": "09:04:14.855",
+        "test_item": "Voltage Check",
+        "result": 3.489,
+        "attempt": 1,
+        "duration": 0.0
+      },
+      {
+        "timestamp": "09:04:14.855",
+        "test_item": "Communication",
+        "result": "OK",
+        "attempt": 1,
+        "duration": 0.0
+      },
+      {
+        "timestamp": "09:04:14.855",
+        "test_item": "Indicator Red",
+        "result": "PASS",
+        "attempt": 1,
+        "duration": 0.0
+      },
+      {
+        "timestamp": "09:04:14.855",
+        "test_item": "Indicator Green",
+        "result": "PASS",
+        "attempt": 1,
+        "duration": 0.0
+      },
+      {
+        "timestamp": "09:04:14.855",
+        "test_item": "Worklight Test",
+        "result": "PASS",
+        "attempt": 1,
+        "duration": 0.0
+      }
+    ],
+    "end_time": "2025-05-18 09:04:14"
+  }
+]
